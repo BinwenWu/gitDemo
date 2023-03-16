@@ -8,4 +8,5 @@ public class GitTest {
     int d = 4;
     int e = 5;
     int f = 6;
+    int g = 7;
 }
